@@ -4,7 +4,7 @@
 
 ### Group members
 | Student name | Student ID |
-| --- | --- |
+| Pina Fiedler | 171634 |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
