@@ -5,7 +5,7 @@
 ### Group members
 | Student name | Student ID |
 | Pina Fiedler | 171634 |
-| #NAME# | #ID# |
+| Alexandru Plecan | 173265 |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
 
